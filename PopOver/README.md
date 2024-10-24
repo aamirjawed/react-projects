@@ -1,8 +1,7 @@
-# React + Vite
+In this project, I used the concept of React.js to build the UI in which whenever we click button something will pop out.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+And vice-versa and there is also an icon 'x'. When we click on the icon the popup element will disappear.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+I styled this project with tailwind CSS
