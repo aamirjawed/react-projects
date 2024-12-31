@@ -57,7 +57,7 @@ const SignIn = () => {
           />
         </div>
         <div className="flex flex-col font-mono antialiased p-2">
-          <label htmlFor="password">Enter your email</label>
+          <label htmlFor="password">Enter your password</label>
           <input
             className="block w-80 border border-gray-950 rounded-md mt-2 p-2"
             type="password"
